@@ -10,6 +10,7 @@ ordered-set==3.1.1     # Ordered sets for simple unique ordered storage
 dotted==0.1.8          # Dotted path dictionary resolving for settings
 beautifultable==0.8.0  # generating nice-looking ascii tables
 PyYAML==5.3            # parsing YAML config files
+datrie==0.7.1          # efficient route searching, used for RPKI
 
 # Database connections and management
 psycopg2-binary==2.8.4
